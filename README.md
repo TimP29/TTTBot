@@ -1,6 +1,6 @@
 # TTTBot
 
-Small script for a TikTakToe bot.
+Small script for a TikTakToe bot.\\
 Planned:
 * Difficulty level
 * Bot vs Player
